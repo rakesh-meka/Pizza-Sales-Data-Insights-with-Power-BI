@@ -1,9 +1,9 @@
-# Pizza-Sales-Data-Insights-with-Power-BI
+# Pizza Sales Analytics Dashboard 
 This project analyzes one year of pizza sales data using SQL Server and visualizes key metrics like total revenue, order trends, and top-selling pizzas in Power BI. The interactive dashboard helps businesses gain insights and make data-driven decisions based on sales performance.
 
 ## Project Overview
 
-The **Pizza-Sales-Data-Insights-with-Power-BI** project involves the analysis and visualization of pizza sales data for the past year. The project aims to provide insights into key performance indicators (KPIs) and address several business problems by analyzing the sales data. 
+The **Pizza Sales Analytics Dashboard** project involves the analysis and visualization of pizza sales data for the past year. The project aims to provide insights into key performance indicators (KPIs) and address several business problems by analyzing the sales data. 
 
 ### Objective
 The primary objective is to extract meaningful insights from the data and help businesses make informed decisions. This is achieved by performing data analysis using SQL Server Management Studio and creating visualizations and dashboards in Power BI.
